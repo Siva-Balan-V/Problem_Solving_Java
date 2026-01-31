@@ -4,7 +4,7 @@ Welcome to **Problem_Solving_Java** - A comprehensive collection of Java program
 
 [![Java](https://img.shields.io/badge/Java-Programming-orange.svg)](https://www.java.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#contributing)
 
 ## 📚 Table of Contents
 
