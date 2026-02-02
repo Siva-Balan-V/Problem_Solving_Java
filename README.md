@@ -1,4 +1,4 @@
-# Problem Solving Java 🚀
+# Problem Solving Java 
 
 Welcome to **Problem_Solving_Java** - A comprehensive collection of Java programming solutions covering fundamental to intermediate level problems. This repository is designed to help programmers learn and practice Java through hands-on problem-solving.
 
@@ -6,7 +6,7 @@ Welcome to **Problem_Solving_Java** - A comprehensive collection of Java program
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#contributing)
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [About](#about)
 - [Repository Structure](#repository-structure)
@@ -20,7 +20,7 @@ Welcome to **Problem_Solving_Java** - A comprehensive collection of Java program
 - [Contributing](#contributing)
 - [Author](#author)
 
-## 🎯 About
+##  About
 
 This repository contains well-structured Java solutions to various programming problems. Each solution is implemented with clear logic and follows Java best practices. The problems are organized into different categories to make learning systematic and progressive.
 
@@ -31,7 +31,7 @@ This repository contains well-structured Java solutions to various programming p
 - ✅ Beginner to intermediate level problems
 - ✅ Scanner-based user input handling
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Problem_Solving_Java/
@@ -45,7 +45,7 @@ Problem_Solving_Java/
 └── Strings/              # String processing problems
 ```
 
-## 🔢 Problem Categories
+##  Problem Categories
 
 ### Numbers
 
@@ -85,7 +85,7 @@ This section covers string manipulation and processing problems.
 4. **Alphabet_count.java** - Count alphabets in a string
 5. **Character_function.java** - Various character operations
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ Before you begin, ensure you have the following installed:
    cd Numbers    # or Array, or Strings
    ```
 
-## ▶️ How to Run
+##  How to Run
 
 ### Method 1: Using Command Line
 
@@ -155,7 +155,7 @@ Enter a Whole number :
 0,1,1,2,3,
 ```
 
-## 💡 Code Structure
+##  Code Structure
 
 All programs follow a consistent structure:
 - **Package declaration:** `package PST;`
@@ -165,7 +165,7 @@ All programs follow a consistent structure:
 - **Logic implementation:** Clear and well-commented code
 - **Output:** Console-based results
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are always welcome! Here's how you can help:
 
@@ -184,18 +184,18 @@ Contributions are always welcome! Here's how you can help:
 - Add your problem to the appropriate category
 - Update this README if adding new categories
 
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
 
-## 👨‍💻 Author
+##  Author
 
 **Siva Balan V**
 
 - GitHub: [@Siva-Balan-V](https://github.com/Siva-Balan-V)
 - Repository: [Problem_Solving_Java](https://github.com/Siva-Balan-V/Problem_Solving_Java)
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 - Thanks to all contributors who have helped improve this repository
 - Inspired by the need for organized Java problem-solving resources
