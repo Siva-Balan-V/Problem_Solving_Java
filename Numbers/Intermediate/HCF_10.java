@@ -9,7 +9,7 @@ public class HCF_10 {
 		int n1,n2;
 		n1=in.nextInt();
 		n2=in.nextInt();
-		for(int i=n1/2;i>=1;i--) {
+		for(int i=n1;i>=1;i--) {
 			if (n1%i==0 && n2%i==0) {
 				System.out.println(i+" is the HCF of "+n1+" and "+n2);
 				break;
