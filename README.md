@@ -14,6 +14,7 @@ Welcome to **Problem_Solving_Java** - A comprehensive collection of Java program
   - [Numbers](#numbers)
   - [Arrays](#arrays)
   - [Strings](#strings)
+  - [Pattern](#pattern)
 - [Getting Started](#getting-started)
 - [How to Run](#how-to-run)
 - [Prerequisites](#prerequisites)
@@ -30,19 +31,22 @@ This repository contains well-structured Java solutions to various programming p
 - ✅ Interactive console-based programs
 - ✅ Beginner to intermediate level problems
 - ✅ Scanner-based user input handling
+- ✅ 44+ problem solutions across 4 categories
 
 ##  Repository Structure
 
 ```
 Problem_Solving_Java/
 │
-├── Numbers/              # Numerical computation problems
-│   ├── Intermediate/     # Advanced number problems
-│   └── [Basic Problems]  # Fundamental number operations
+├── Numbers/              # Numerical computation problems (22 problems)
+│   ├── Intermediate/     # Advanced number problems (10 problems)
+│   └── [Basic Problems]  # Fundamental number operations (12 problems)
 │
-├── Array/                # Array manipulation problems
+├── Array/                # Array manipulation problems (11 problems)
 │
-└── Strings/              # String processing problems
+├── Strings/              # String processing problems (11 problems)
+│
+└── Pattern/              # Pattern printing programs (1 problem)
 ```
 
 ##  Problem Categories
@@ -51,7 +55,7 @@ Problem_Solving_Java/
 
 This section contains problems related to numerical computations and mathematical operations.
 
-#### Basic Level:
+#### Basic Level (12 Problems):
 1. **Arithmetic_operators.java** - Implementation of basic arithmetic operations
 2. **Circle_area.java** - Calculate the area of a circle
 3. **Factorial.java** - Compute factorial of a number
@@ -64,16 +68,33 @@ This section contains problems related to numerical computations and mathematica
 10. **number_checker.java** - Various number validation checks
 11. **Ascending_Descending.java** - Sort numbers in ascending/descending order
 
-#### Intermediate Level:
+#### Intermediate Level (10 Problems):
 1. **Armstrong_01.java** - Check Armstrong numbers
+2. **Perfect_number_02.java** - Check if a number is a perfect number
+3. **Strong_number_03.java** - Verify strong numbers (sum of factorials equals the number)
+4. **Automorphic_number_04.java** - Check automorphic numbers
+5. **Harshad_number_05.java** - Identify Harshad (Niven) numbers
+6. **Duck_number_06.java** - Check for duck numbers (zeros present but not at beginning)
+7. **Neon_number_07.java** - Verify neon numbers
+8. **Kaprekar_number_08.java** - Check Kaprekar numbers
+9. **Magic_number_09.java** - Identify magic numbers
+10. **HCF_10.java** - Calculate Highest Common Factor (GCD)
 
 ### Arrays
 
 This section focuses on array operations and manipulations.
 
-1. **Largest_element_array.java** - Find the largest element in an array
-2. **Sum_of_array.java** - Calculate the sum of all array elements
-3. **array_count.java** - Count odd and even elements in an array
+1. **Largest_element_01.java** - Find the largest element in an array
+2. **Smallest_element_02.java** - Find the smallest element in an array
+3. **Sum_of_Array_03.java** - Calculate the sum of all array elements
+4. **Reverse_array_04.java** - Reverse an array
+5. **Even_Odd_Count_Array_05.java** - Count even and odd elements in an array
+6. **Second_Largest_Element_06.java** - Find the second largest element
+7. **Ascending_Array_07.java** - Sort array in ascending order
+8. **Duplicate_array_08.java** - Find duplicate elements in an array
+9. **Merge_array_09.java** - Merge two arrays
+10. **Left_rotate_10.java** - Rotate array elements to the left
+11. **Arr.java** - General array operations
 
 ### Strings
 
@@ -84,6 +105,18 @@ This section covers string manipulation and processing problems.
 3. **Vowel_or_Consonant.java** - Check if a character is vowel or consonant
 4. **Alphabet_count.java** - Count alphabets in a string
 5. **Character_function.java** - Various character operations
+6. **Anagram.java** - Check if two strings are anagrams
+7. **Frequent_char.java** - Find the most frequent character in a string
+8. **Remove_duplicate.java** - Remove duplicate characters from a string
+9. **Swap.java** - Swap strings without using a temporary variable
+10. **Ucase_Lcase.java** - Convert between uppercase and lowercase
+11. **Word_Count.java** - Count words in a string
+
+### Pattern
+
+This section contains pattern printing problems.
+
+1. **Hollow_Square.java** - Print a hollow square pattern
 
 ##  Getting Started
 
@@ -111,7 +144,7 @@ Before you begin, ensure you have the following installed:
 
 3. **Choose a problem category:**
    ```bash
-   cd Numbers    # or Array, or Strings
+   cd Numbers    # or Array, or Strings, or Pattern
    ```
 
 ##  How to Run
