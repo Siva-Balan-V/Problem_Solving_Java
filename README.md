@@ -38,9 +38,9 @@ This repository contains well-structured Java solutions to various programming p
 ```
 Problem_Solving_Java/
 │
-├── Numbers/              # Numerical computation problems (22 problems)
+├── Numbers/              # Numerical computation problems (21 problems)
 │   ├── Intermediate/     # Advanced number problems (10 problems)
-│   └── [Basic Problems]  # Fundamental number operations (12 problems)
+│   └── [Basic Problems]  # Fundamental number operations (11 problems)
 │
 ├── Array/                # Array manipulation problems (11 problems)
 │
@@ -55,7 +55,7 @@ Problem_Solving_Java/
 
 This section contains problems related to numerical computations and mathematical operations.
 
-#### Basic Level (12 Problems):
+#### Basic Level (11 Problems):
 1. **Arithmetic_operators.java** - Implementation of basic arithmetic operations
 2. **Circle_area.java** - Calculate the area of a circle
 3. **Factorial.java** - Compute factorial of a number
