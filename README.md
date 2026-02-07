@@ -234,7 +234,7 @@ This project is open source and available for educational purposes.
 - Inspired by the need for organized Java problem-solving resources
 - Built for learners, by learners
 
-## 📞 Contact & Support
+##  Contact & Support
 
 If you have any questions or suggestions, feel free to:
 - Open an issue in the repository
@@ -242,6 +242,6 @@ If you have any questions or suggestions, feel free to:
 
 ---
 
-### ⭐ Star this repository if you find it helpful!
+###  Star this repository if you find it helpful!
 
 **Happy Coding! 💻**
