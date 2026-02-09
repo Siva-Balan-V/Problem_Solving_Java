@@ -5,7 +5,7 @@ public class Hollow_Pyramid {
 	public static void main(String[] args) {
 		// TODO a hollow pyramid
 		Scanner in = new Scanner(System.in);
-		System.out.println("Enter the number of charecters : ");
+		System.out.println("Enter the number of rows : ");
 		int n = in.nextInt();
 		System.out.println("Enter the Charecter to be printed " );
 		String c= in.next();
