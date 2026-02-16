@@ -16,7 +16,7 @@ This directory contains programs that work with ASCII values and character encod
 **Sample Input/Output:**
 ```
 Input: Enter a String : Hello
-Output: Sum of ASCII Values of Characters in give String : 500
+Output: Sum of ASCII Values of Characters in given String : 500
 ```
 
 ---
@@ -76,7 +76,7 @@ Output: Character : A
 
 ---
 
-### 5. String_ASCCI_value.java
+### 5. String_ASCII_value.java
 **Description:** Displays the ASCII value of each character in a string.
 
 **Logic:**
