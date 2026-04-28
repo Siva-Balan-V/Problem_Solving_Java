@@ -18,3 +18,4 @@ public class ASCII_Sum {
 	}
 
 }
+https://chatgpt.com/share/69f05bc3-e914-8321-904c-ceb270304170
